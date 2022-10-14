@@ -2,4 +2,4 @@
 Repositorio
 
 ## links uteis
-{Sintaxia basica Markdown}(https://www.markdownguide.org/) 
+[Sintaxia basica Markdown](https://www.markdownguide.org/) 
